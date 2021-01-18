@@ -1,0 +1,64 @@
+name,code
+Coffee,cof
+Cotton,cot
+Groundnut,gro
+Maize,mai
+Dryland rice,rcd
+Wetland rice,rcp
+Soybean,soy
+Sugarcane,sgc
+Tea,tea
+Wheat,whe
+Barley,bar
+Sorghum,sor
+Rye,rye
+Pearl millet,mtp
+Foxtail millet,mtf
+Oat,oat
+Buckwheat,buc
+White potato,ptw
+Sweet potato,pts
+Cassava,cas
+Yam and Cocoyam,yam
+Sugarbeet,sgb
+Phaseolus bean,bea
+Chickpea,chi
+Cowpea,cow
+Dry pea,pea
+Gram,grm
+Pigeonpea,pig
+Sunflower,sun
+Rapeseed,rap
+Oilpalm,oil
+Olive,oli
+Jatropha,jat
+Cabbage,cab
+Carrot,car
+Onion,oni
+Tomato,tom
+Banana,ban
+Citrus,cit
+Coconut,con
+Cocoa,coc
+Flax,fla
+Tobacco,tob
+Alfalfa,alf
+Pasture legume,pas
+Warm C4,tef
+Miscanthus,mis
+Switchgrass,swi
+Reed canary grass,ree
+Grass,grs
+Yield (t/ha),yld
+Crop water deficit (mm),cwd
+Crop Evapotranspiration (mm),evt
+Rainfall,prc
+Low,low
+Intermediate,int
+High,hig
+mm,mm
+t/ha,tha
+Irrigated,irr
+Rain-fed,rai
+1961-1990,bas
+World,wor
